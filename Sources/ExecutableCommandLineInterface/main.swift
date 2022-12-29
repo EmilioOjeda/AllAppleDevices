@@ -1,0 +1,3 @@
+import CommandLineInterface
+
+AllAppleDevicesCommand.main()
